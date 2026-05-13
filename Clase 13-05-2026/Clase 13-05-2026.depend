@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1778680949 source:/home/nacho/Escritorio/Proyectos y Trabajos de la UTN/Programacion 1 - C/Ejercicios-en-clase-Programacion1-INSPT-UTN/Clase 13-05-2026/main.c
+	<stdio.h>
+	<stdbool.h>
+
